@@ -9,3 +9,5 @@ Welcome to the WP Ultimate Demo documentation. From here you'll get everything a
 [Configuration](https://github.com/tanng/wp-ultimate-demo-docs/wiki/Configuration)
 
 [Advanced Configuration](https://github.com/tanng/wp-ultimate-demo-docs/wiki/Advanced-Configuration)
+
+[Uninstallation](https://github.com/tanng/wp-ultimate-demo-docs/wiki/Uninstallation)
